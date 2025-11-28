@@ -1,0 +1,6 @@
+@PrevisaoTempo_HostAddress = http://localhost:5212
+
+GET {{PrevisaoTempo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
